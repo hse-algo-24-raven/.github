@@ -26,5 +26,3 @@
 Для получения повышенных баллов студенты по желанию могут выполнять задания по поддержке и развитию веб-приложения Онлайн-калькулятор.
 
 **Полезные материалы по курсу можно посмотреть в репозитории с [wiki](https://github.com/hse-algo-24-raven/docs-raven/wiki)**
-
-<a href="https://www.flaticon.com/free-icons/crow" title="crow icons">Crow icons created by smashingstocks - Flaticon</a>
